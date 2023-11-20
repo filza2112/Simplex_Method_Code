@@ -1,4 +1,4 @@
-<h1 align=center># Simplex_Method_Code</h1>
+<h1 align=center># Simplex_Method_Code_in_C++</h1>
 <ul>
   <li>This code can Compute all types of LPP problems solvable by Simplex method</li>
   <li>It Can Also Show all the Iterations</li>
