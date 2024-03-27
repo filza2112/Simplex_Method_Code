@@ -1,6 +1,6 @@
 <h1 align=center># Simplex_Method_Code_in_C++</h1>
 <ul>
-  <li>This code can Compute all types of LPP problems using by Simplex method by Big-M Method </li>
+  <li>This code can Compute all types of LPP problems using Simplex method by Big-M Method </li>
   <li>It Can Also Show all the Iterations</li>
   <li>It includes the condition of Maximization and Minimization</li>
   <li>It also Includes the case of <=, >= , =</li>
