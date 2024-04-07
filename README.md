@@ -4,7 +4,7 @@
   <li>It Can Also Show all the Iterations</li>
   <li>It includes the condition of Maximization and Minimization</li>
   <li>It also Includes the case of <=, >= , =</li>
-  <li>It will give the most Optimized answer</li>
+  <li>The program can detect the unboundedness and infeasibility of the LPP</li>
   </ul>
 
 <h2 align=center>Also refer to the screenshots of Output</h2>
